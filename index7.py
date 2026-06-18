@@ -19,7 +19,7 @@ if st.session_state.Name:
 
 
 #Input Your Age here
-
+ 
 age_input=st.text_input("Write Your Age:",key="Age_text")
 
 #Show the User Input Age
